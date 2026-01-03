@@ -1,0 +1,10 @@
+# Web scraping
+playwright==1.41.0
+beautifulsoup4==4.12.3
+requests==2.31.0
+
+# Data processing
+pandas==2.2.0
+
+# Utilities
+python-dotenv==1.0.1
